@@ -12,7 +12,7 @@
 
 ---
 ## Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeezxyz/shiziyama)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeezxyz/shiziyama-2.0)
 
 ## Follow Me
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=instgram&logoColor=white)](https://Instagram.com/ftditzzxy) 
