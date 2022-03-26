@@ -2,6 +2,13 @@
 <img src="https://telegra.ph/file/2d99afacf3184de8f9bd9.png" alt="SHIZIYAMA" width="500"/>
 
 
+
+
+<p align="center">JANGAN LUPA UBAH SEMUA HTML YANG BERISI TEXT</br> <strong>ZEEZXYZ</strong> JADI <strong>KRYZZP</strong></center>
+
+
+
+
 </p>
 <p align="center">
 <a href="#"><img title="Logo" src="https://img.shields.io/badge/SHIZIYAMA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
